@@ -5,6 +5,7 @@ public class FirstProgram {
 	{
 		System.out.println("hello");
 		System.out.println("Sanat kumar");
+		System.out.println("Third time");
 	}
 
 }
